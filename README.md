@@ -10,5 +10,7 @@ OSX 10.11
 
 ##動作確認
 ・（アタッチされていなければ）BuildSettingsのScenes in BuildにAssets/Scenesフォルダに入っている全シーンをアタッチする
+
 ・Managerシーンを開いて、プレイして、画面の左上に遷移ボタンがあるので　押すとシーン遷移します。
+
 順番は　Scene1 -> load -> Scene2になっています。
